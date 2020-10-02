@@ -22,4 +22,4 @@
 
 ## Библиотеки
 
-*pandas*, *numpy*, *sklearn*
+*pandas*, *numpy*, *Matplotlib*, *SciPy*, *sklearn*
