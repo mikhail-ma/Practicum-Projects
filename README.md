@@ -4,7 +4,6 @@
 
 | Название проекта | Описание | Используемые библиотеки |
 | --- | --- | --- |
-| [Анализ рынка недвижимости Санкт-Петербурга](https://github.com/mikhail-ma/Practicum-Projects/tree/main/saint_petersburg_flats) | Имеется архив объявлений о продаже квартир в Санкт-Петербурге и Ленинградской области. Задача - проанализировать данные и определить основные факторы влияющие на цены. | *pandas* |
 | [Изучение закономерностей, определяющих успешность игр](https://github.com/mikhail-ma/Practicum-Projects/tree/main/popular_games) | Используя исторические данные о продажах компьютерных игр, оценки пользователей, жанры, платформы и региональные предпочтения игроков, выявить закономерности, определяющие успешность игры. | *pandas*, *numpy*, *Matplotlib*, *SciPy*|
 | [Определение выгодного тарифа для телеком компании](https://github.com/mikhail-ma/Practicum-Projects/tree/main/mobile_tariffs) | Представлена информация по двум тарифным планам телеком компании. Задача - проанализировать поведение клиентов и подобрать оптимальный тариф. | *pandas*, *numpy*, *Matplotlib*, *SciPy*, *sklearn* |
 | [Отток клиентов банка](https://github.com/mikhail-ma/Practicum-Projects/tree/main/customer_churn) | Анализ оттока клиентов из банка для выбора стратегии по их удержанию. | *pandas*, *numpy*, *Matplotlib*, *sklearn* |
@@ -15,3 +14,4 @@
 | [Прогнозирование заказов такси](https://github.com/mikhail-ma/Practicum-Projects/tree/main/time_series) | Обучить модель для предсказания количества заказов такси на следующий час. | *pandas*, *numpy*, *Matplotlib*, *Seaborn*, *sklearn*, *xgboost*, *statsmodels*, *pmdarima* |
 | [Классификация комментариев](https://github.com/mikhail-ma/Practicum-Projects/tree/main/toxic_comments) | Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности. Обучить модель классифицировать комментарии на позитивные и негативные. | *pandas*, *numpy*, *Matplotlib*, *Seaborn*, *sklearn*, *xgboost*, *spacy*, *transformers* |
 | [Определение возраста по фото](https://github.com/mikhail-ma/Practicum-Projects/tree/main/computer_vision) | Построить модель, которая по фотографии определит приблизительный возраст человека. | *pandas, Matplotlib, numpy, PIL, Keras, Tensorflow* |
+| [Дипломная работа: прогнозирование оттока клиентов](https://github.com/mikhail-ma/Practicum-Projects/tree/main/final_project) | Создать модель для выявления клиентов, которые с наибольшей вероятностью покинут компанию. | *pandas, NumPy, Matplotlib, Seaborn, Imblearn, scikit-learn, CatBoost, LightGBM, XGBoost* |
